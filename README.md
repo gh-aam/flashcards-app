@@ -21,7 +21,7 @@ https://github.com/gh-aam/flashcards-app.git
 ```
 * Navigate to project directory.
 ```bash
-cd flashcard-app
+cd flashcards-app
 ```
 * Install dependencies.
 ```bash
