@@ -17,7 +17,7 @@ It's a flash card app with pre-defined questions and answers that users can flip
 ### How to Run?
 * Clone the repository.
   ```bash
-  git clone https://github.com/your-username/flashcard-app.git
+  https://github.com/gh-aam/flashcards-app.git
   ```
 * Navigate to project directory.
   ```bash
